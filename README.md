@@ -7,6 +7,10 @@ Frontend Developer
 I am a frontend devloper who loves coding!
 
 * 🌍  I'm based in Bangkok
+* ## 🎓 Education
+
+**Master of Information Technology (MIT)**  
+📍 Currently Studying
 * ✉️  You can contact me at [mohmohaung737@gmail.com](mailto:mohmohaung737@gmail.com)
 
 <p align="left">
