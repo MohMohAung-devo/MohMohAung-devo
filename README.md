@@ -88,7 +88,3 @@ I enjoy building responsive, modern, and user-friendly web applications using Re
 </p>
 
 ---
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=MohMohAung-devo&style=flat-square&color=blue)
